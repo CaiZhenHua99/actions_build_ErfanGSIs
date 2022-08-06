@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aabouxnisbsku6umduh27wjrj4o2g888.node.ppio.cloud:3656/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18X/9.2.3.3/cn/20220329175846/940e87ac/update.zip?f_ver=v1&max_age=7776000&r=JkMhNSV%2FS2YNHyFaIBdCUmBaMCwsMEoqBBt8cT4EXUAvRTBqECkdJA5ZPlI%2BDEUGdm96fHh3SnpFRXxUOVkCB3wFZXZkfFV%2BXk5nAXhPBAcrD2IkNWoROQ8XJ1J5DFlHIUcwKzUhCngEBjZZNBJeBg%3D%3D&ppiouid=626fc8b084ccae0001fbbfdab7fad2e4
-  ROM_NAME: Flyme
+  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2055_A_1.10.20-update-full_1643096410.zip
+  ROM_NAME: OriginOSOcean
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
